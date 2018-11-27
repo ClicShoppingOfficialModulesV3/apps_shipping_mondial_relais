@@ -1,4 +1,4 @@
-# apps_shipping_item
+# apps_shipping_mondial_relais
 
  This apps allow you to display the shipping price and allow for the customer to select where the product must be delivery.
 
@@ -20,6 +20,6 @@ marketplace link : https://www.clicshopping.org/forum/files/file/60-apps_shippin
 Activate the module in Shipping
 Need a subscription at mondialrelais.com
 
-![item](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_mondial_relais/blob/master/ModuleInfosJson/item.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_mondial_relais/blob/master/ModuleInfosJson/image.png)
 
 
